@@ -4,7 +4,7 @@ public class schoolApp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
+		// modification to commit a change to git 
 	student student1 = new student("Paolo", "15530172");
 	student1.setUid();
 	student1.setCity("hosta");
